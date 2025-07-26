@@ -1,6 +1,6 @@
 {
   "gateway_ip": "192.168.1.1",
   "gateway_mac": "xx:xx:xx:xx:xx:xx",
-  "telegram_token": "7203473982:AAEaw2fN4aI84VqnwfNSsYG2L_FXoiDvYmQ",
-  "chat_id": "1144348396"
+  "telegram_token": "token bot",
+  "chat_id": "id dari json"
 }
